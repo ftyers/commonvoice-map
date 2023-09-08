@@ -30,7 +30,7 @@ with open('mapdata.tsv') as fin:
     for line in fin:
         if '.' in line and '#' not in line:
             ls = line.strip().split('\t')
-            langs[ls[0]] = (ls[1], ls[2])
+            langs[ls[0]] = (ls[1], ls[2]) # lat, long
 
 points = []
 
@@ -126,8 +126,8 @@ for sz in sorted(sizes.keys()):
         print('  ', vc, recorded_hours[vc])
     for c in set(cds) - set(valid_codes):
        missing.append(c)
-    ax.scatter([lon2x(langs[x][0]) for x in cds if x in valid_codes],
-               [lat2y(langs[x][1]) for x in cds if x in valid_codes],
+    ax.scatter([lon2x(langs[x][1]) for x in cds if x in valid_codes],
+               [lat2y(langs[x][0]) for x in cds if x in valid_codes],
                #s=(1.5*sz+1),
                s=2,
                #c='gray',
