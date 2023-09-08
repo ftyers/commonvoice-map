@@ -2,6 +2,8 @@
 
 ![](img/size_map_example.png)
 
+A simple map generation script to produce an approximate distribution and dataset size of languages in Common Voice.
+
 ## To generate a new map
 
 * Download the latest stats: `wget -q -O - "https://commonvoice.mozilla.org/api/v1/stats/languages" | json_pp > languages.json`

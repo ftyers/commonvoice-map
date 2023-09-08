@@ -3,6 +3,7 @@
 import sys, re
 import matplotlib.pyplot as plt
 from collections import defaultdict
+import matplotlib.patches as mpatches
 import json
 from iso2to3 import *
 
@@ -66,11 +67,21 @@ size_ranges = [
     (range(50, 100), 4),
     (range(100, 500), 5),
     (range(500, 1000), 6),
-    (range(1000, 100000000000000), 7),
+    (range(1000, 10000), 7),
 ]
 
 size_colours = ['#462b8c', '#524994', '#60649c', '#6f7ea2', '#7f98a8', '#8fb3ac' ,'#a0cdb0', '#b2e8b2']
 size_colours.reverse()
+
+handles = [mpatches.Patch(color='#b2e8b2', label='< 1h'),
+	   mpatches.Patch(color='#a0cdb0', label='1h - 5h'),
+	   mpatches.Patch(color='#8fb3ac', label='5h - 10h'),
+	   mpatches.Patch(color='#7f98a8', label='10h - 50h'),
+	   mpatches.Patch(color='#6f7ea2', label='50h - 100h'),
+	   mpatches.Patch(color='#60649c', label='100h - 500h'),
+	   mpatches.Patch(color='#524994', label='500h - 1000h'),
+	   mpatches.Patch(color='#462b8c', label='> 1000h')
+]
 
 sizes = defaultdict(list)
 #with open('languages-sizes.tsv') as fin:
@@ -117,6 +128,7 @@ for cvlang in cvlangs_json:
             break
 
 missing = []
+ax.legend(handles=handles, loc='center left', fontsize='4')
 for sz in sorted(sizes.keys()):
     cds = sizes[sz]
     valid_codes = [x for x in cds if x in langs]
