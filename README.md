@@ -1,5 +1,7 @@
 # commonvoice-map
 
+![](img/size_map_example.png)
+
 ## To generate a new map
 
 * Download the latest stats
