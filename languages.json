@@ -1,0 +1,1939 @@
+[
+   {
+      "id" : 1,
+      "is_contributable" : 1,
+      "locale" : "en",
+      "localizedPercentage" : 0,
+      "recordedHours" : 3327,
+      "sentencesCount" : {
+         "currentCount" : 1668605,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 89093,
+      "validatedHours" : 2469
+   },
+   {
+      "id" : 2,
+      "is_contributable" : 1,
+      "locale" : "de",
+      "localizedPercentage" : 100,
+      "recordedHours" : 1374,
+      "sentencesCount" : {
+         "currentCount" : 2010976,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 18391,
+      "validatedHours" : 1282
+   },
+   {
+      "id" : 3,
+      "is_contributable" : 1,
+      "locale" : "fr",
+      "localizedPercentage" : 100,
+      "recordedHours" : 1081,
+      "sentencesCount" : {
+         "currentCount" : 1643975,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 17934,
+      "validatedHours" : 961
+   },
+   {
+      "id" : 4,
+      "is_contributable" : 1,
+      "locale" : "cy",
+      "localizedPercentage" : 100,
+      "recordedHours" : 153,
+      "sentencesCount" : {
+         "currentCount" : 118032,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1801,
+      "validatedHours" : 120
+   },
+   {
+      "id" : 5,
+      "is_contributable" : 1,
+      "locale" : "br",
+      "localizedPercentage" : 71,
+      "recordedHours" : 25,
+      "sentencesCount" : {
+         "currentCount" : 7262,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 198,
+      "validatedHours" : 12
+   },
+   {
+      "id" : 6,
+      "is_contributable" : 1,
+      "locale" : "cv",
+      "localizedPercentage" : 28,
+      "recordedHours" : 28,
+      "sentencesCount" : {
+         "currentCount" : 4378,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 112,
+      "validatedHours" : 27
+   },
+   {
+      "id" : 7,
+      "is_contributable" : 1,
+      "locale" : "tr",
+      "localizedPercentage" : 97,
+      "recordedHours" : 118,
+      "sentencesCount" : {
+         "currentCount" : 54861,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1520,
+      "validatedHours" : 110
+   },
+   {
+      "id" : 8,
+      "is_contributable" : 1,
+      "locale" : "tt",
+      "localizedPercentage" : 79,
+      "recordedHours" : 31,
+      "sentencesCount" : {
+         "currentCount" : 18009,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 247,
+      "validatedHours" : 31
+   },
+   {
+      "id" : 9,
+      "is_contributable" : 1,
+      "locale" : "kab",
+      "localizedPercentage" : 86,
+      "recordedHours" : 697,
+      "sentencesCount" : {
+         "currentCount" : 182502,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1544,
+      "validatedHours" : 564
+   },
+   {
+      "id" : 10,
+      "is_contributable" : 1,
+      "locale" : "ky",
+      "localizedPercentage" : 30,
+      "recordedHours" : 47,
+      "sentencesCount" : {
+         "currentCount" : 5025,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 270,
+      "validatedHours" : 39
+   },
+   {
+      "id" : 11,
+      "is_contributable" : 1,
+      "locale" : "ga-IE",
+      "localizedPercentage" : 49,
+      "recordedHours" : 12,
+      "sentencesCount" : {
+         "currentCount" : 1609,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 187,
+      "validatedHours" : 6
+   },
+   {
+      "id" : 12,
+      "is_contributable" : 1,
+      "locale" : "sl",
+      "localizedPercentage" : 58,
+      "recordedHours" : 14,
+      "sentencesCount" : {
+         "currentCount" : 3870,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 148,
+      "validatedHours" : 11
+   },
+   {
+      "id" : 13,
+      "is_contributable" : 1,
+      "locale" : "ca",
+      "localizedPercentage" : 99,
+      "recordedHours" : 3476,
+      "sentencesCount" : {
+         "currentCount" : 1208638,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 35150,
+      "validatedHours" : 2575
+   },
+   {
+      "id" : 14,
+      "is_contributable" : 1,
+      "locale" : "it",
+      "localizedPercentage" : 100,
+      "recordedHours" : 410,
+      "sentencesCount" : {
+         "currentCount" : 923635,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 7002,
+      "validatedHours" : 349
+   },
+   {
+      "id" : 15,
+      "is_contributable" : 1,
+      "locale" : "zh-TW",
+      "localizedPercentage" : 96,
+      "recordedHours" : 121,
+      "sentencesCount" : {
+         "currentCount" : 19414,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 2164,
+      "validatedHours" : 72
+   },
+   {
+      "id" : 16,
+      "is_contributable" : 1,
+      "locale" : "eo",
+      "localizedPercentage" : 63,
+      "recordedHours" : 1926,
+      "sentencesCount" : {
+         "currentCount" : 180049,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1693,
+      "validatedHours" : 1432
+   },
+   {
+      "id" : 17,
+      "is_contributable" : 1,
+      "locale" : "nl",
+      "localizedPercentage" : 100,
+      "recordedHours" : 117,
+      "sentencesCount" : {
+         "currentCount" : 258775,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1654,
+      "validatedHours" : 107
+   },
+   {
+      "id" : 18,
+      "is_contributable" : 1,
+      "locale" : "zh-CN",
+      "localizedPercentage" : 100,
+      "recordedHours" : 1223,
+      "sentencesCount" : {
+         "currentCount" : 58666,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 6844,
+      "validatedHours" : 264
+   },
+   {
+      "id" : 19,
+      "is_contributable" : 1,
+      "locale" : "zh-HK",
+      "localizedPercentage" : 64,
+      "recordedHours" : 140,
+      "sentencesCount" : {
+         "currentCount" : 19692,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 3003,
+      "validatedHours" : 108
+   },
+   {
+      "id" : 20,
+      "is_contributable" : 0,
+      "locale" : "ace",
+      "localizedPercentage" : 19,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 87,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 21,
+      "is_contributable" : 0,
+      "locale" : "an",
+      "localizedPercentage" : 60,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 57,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 22,
+      "is_contributable" : 1,
+      "locale" : "ar",
+      "localizedPercentage" : 48,
+      "recordedHours" : 154,
+      "sentencesCount" : {
+         "currentCount" : 59398,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1493,
+      "validatedHours" : 90
+   },
+   {
+      "id" : 23,
+      "is_contributable" : 1,
+      "locale" : "as",
+      "localizedPercentage" : 93,
+      "recordedHours" : 4,
+      "sentencesCount" : {
+         "currentCount" : 5140,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 45,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 24,
+      "is_contributable" : 1,
+      "locale" : "ast",
+      "localizedPercentage" : 54,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 1590,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 15,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 25,
+      "is_contributable" : 1,
+      "locale" : "az",
+      "localizedPercentage" : 27,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 93151,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 25,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 26,
+      "is_contributable" : 1,
+      "locale" : "bg",
+      "localizedPercentage" : 52,
+      "recordedHours" : 21,
+      "sentencesCount" : {
+         "currentCount" : 39551,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 106,
+      "validatedHours" : 13
+   },
+   {
+      "id" : 27,
+      "is_contributable" : 1,
+      "locale" : "bn",
+      "localizedPercentage" : 52,
+      "recordedHours" : 1813,
+      "sentencesCount" : {
+         "currentCount" : 562663,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 22883,
+      "validatedHours" : 69
+   },
+   {
+      "id" : 30,
+      "is_contributable" : 1,
+      "locale" : "cnh",
+      "localizedPercentage" : 46,
+      "recordedHours" : 6,
+      "sentencesCount" : {
+         "currentCount" : 5218,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 299,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 31,
+      "is_contributable" : 1,
+      "locale" : "cs",
+      "localizedPercentage" : 100,
+      "recordedHours" : 261,
+      "sentencesCount" : {
+         "currentCount" : 450681,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 934,
+      "validatedHours" : 70
+   },
+   {
+      "id" : 32,
+      "is_contributable" : 1,
+      "locale" : "da",
+      "localizedPercentage" : 85,
+      "recordedHours" : 13,
+      "sentencesCount" : {
+         "currentCount" : 20428,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 243,
+      "validatedHours" : 12
+   },
+   {
+      "id" : 34,
+      "is_contributable" : 1,
+      "locale" : "el",
+      "localizedPercentage" : 96,
+      "recordedHours" : 32,
+      "sentencesCount" : {
+         "currentCount" : 6482,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 375,
+      "validatedHours" : 19
+   },
+   {
+      "id" : 35,
+      "is_contributable" : 1,
+      "locale" : "es",
+      "localizedPercentage" : 54,
+      "recordedHours" : 2288,
+      "sentencesCount" : {
+         "currentCount" : 1079608,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 25370,
+      "validatedHours" : 445
+   },
+   {
+      "id" : 36,
+      "is_contributable" : 1,
+      "locale" : "et",
+      "localizedPercentage" : 36,
+      "recordedHours" : 57,
+      "sentencesCount" : {
+         "currentCount" : 10246,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 850,
+      "validatedHours" : 52
+   },
+   {
+      "id" : 37,
+      "is_contributable" : 1,
+      "locale" : "eu",
+      "localizedPercentage" : 86,
+      "recordedHours" : 158,
+      "sentencesCount" : {
+         "currentCount" : 61378,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1425,
+      "validatedHours" : 104
+   },
+   {
+      "id" : 38,
+      "is_contributable" : 1,
+      "locale" : "fa",
+      "localizedPercentage" : 58,
+      "recordedHours" : 414,
+      "sentencesCount" : {
+         "currentCount" : 55003,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 4360,
+      "validatedHours" : 366
+   },
+   {
+      "id" : 39,
+      "is_contributable" : 1,
+      "locale" : "fi",
+      "localizedPercentage" : 66,
+      "recordedHours" : 20,
+      "sentencesCount" : {
+         "currentCount" : 5707,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 215,
+      "validatedHours" : 11
+   },
+   {
+      "id" : 41,
+      "is_contributable" : 1,
+      "locale" : "fy-NL",
+      "localizedPercentage" : 100,
+      "recordedHours" : 225,
+      "sentencesCount" : {
+         "currentCount" : 10345,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 2026,
+      "validatedHours" : 66
+   },
+   {
+      "id" : 42,
+      "is_contributable" : 1,
+      "locale" : "he",
+      "localizedPercentage" : 100,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 1136,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 6,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 43,
+      "is_contributable" : 1,
+      "locale" : "hsb",
+      "localizedPercentage" : 89,
+      "recordedHours" : 3,
+      "sentencesCount" : {
+         "currentCount" : 7172,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 21,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 44,
+      "is_contributable" : 1,
+      "locale" : "hu",
+      "localizedPercentage" : 100,
+      "recordedHours" : 148,
+      "sentencesCount" : {
+         "currentCount" : 325159,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1587,
+      "validatedHours" : 74
+   },
+   {
+      "id" : 45,
+      "is_contributable" : 1,
+      "locale" : "ia",
+      "localizedPercentage" : 100,
+      "recordedHours" : 17,
+      "sentencesCount" : {
+         "currentCount" : 9069,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 66,
+      "validatedHours" : 14
+   },
+   {
+      "id" : 46,
+      "is_contributable" : 1,
+      "locale" : "id",
+      "localizedPercentage" : 53,
+      "recordedHours" : 66,
+      "sentencesCount" : {
+         "currentCount" : 12869,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 520,
+      "validatedHours" : 29
+   },
+   {
+      "id" : 47,
+      "is_contributable" : 1,
+      "locale" : "is",
+      "localizedPercentage" : 93,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 4993,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 2,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 48,
+      "is_contributable" : 1,
+      "locale" : "ja",
+      "localizedPercentage" : 57,
+      "recordedHours" : 236,
+      "sentencesCount" : {
+         "currentCount" : 19784,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1716,
+      "validatedHours" : 79
+   },
+   {
+      "id" : 49,
+      "is_contributable" : 1,
+      "locale" : "ka",
+      "localizedPercentage" : 100,
+      "recordedHours" : 163,
+      "sentencesCount" : {
+         "currentCount" : 129341,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1269,
+      "validatedHours" : 113
+   },
+   {
+      "id" : 50,
+      "is_contributable" : 1,
+      "locale" : "kk",
+      "localizedPercentage" : 51,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 6137,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 92,
+      "validatedHours" : 2
+   },
+   {
+      "id" : 51,
+      "is_contributable" : 1,
+      "locale" : "ko",
+      "localizedPercentage" : 86,
+      "recordedHours" : 4,
+      "sentencesCount" : {
+         "currentCount" : 6409,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 61,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 52,
+      "is_contributable" : 0,
+      "locale" : "kpv",
+      "localizedPercentage" : 37,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 196,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 54,
+      "is_contributable" : 1,
+      "locale" : "mdf",
+      "localizedPercentage" : 69,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 6039,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 11,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 55,
+      "is_contributable" : 1,
+      "locale" : "mk",
+      "localizedPercentage" : 65,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 5097,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 8,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 56,
+      "is_contributable" : 1,
+      "locale" : "mn",
+      "localizedPercentage" : 48,
+      "recordedHours" : 22,
+      "sentencesCount" : {
+         "currentCount" : 6066,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 513,
+      "validatedHours" : 13
+   },
+   {
+      "id" : 57,
+      "is_contributable" : 1,
+      "locale" : "myv",
+      "localizedPercentage" : 71,
+      "recordedHours" : 4,
+      "sentencesCount" : {
+         "currentCount" : 5066,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 13,
+      "validatedHours" : 4
+   },
+   {
+      "id" : 58,
+      "is_contributable" : 0,
+      "locale" : "nb-NO",
+      "localizedPercentage" : 63,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 3242,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 59,
+      "is_contributable" : 1,
+      "locale" : "ne-NP",
+      "localizedPercentage" : 85,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 1197,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 23,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 60,
+      "is_contributable" : 1,
+      "locale" : "nn-NO",
+      "localizedPercentage" : 76,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 5054,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 32,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 61,
+      "is_contributable" : 1,
+      "locale" : "oc",
+      "localizedPercentage" : 83,
+      "recordedHours" : 13,
+      "sentencesCount" : {
+         "currentCount" : 4927,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 142,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 62,
+      "is_contributable" : 1,
+      "locale" : "or",
+      "localizedPercentage" : 66,
+      "recordedHours" : 13,
+      "sentencesCount" : {
+         "currentCount" : 6006,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 126,
+      "validatedHours" : 2
+   },
+   {
+      "id" : 63,
+      "is_contributable" : 1,
+      "locale" : "pl",
+      "localizedPercentage" : 65,
+      "recordedHours" : 175,
+      "sentencesCount" : {
+         "currentCount" : 228344,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 3233,
+      "validatedHours" : 162
+   },
+   {
+      "id" : 64,
+      "is_contributable" : 1,
+      "locale" : "pt",
+      "localizedPercentage" : 100,
+      "recordedHours" : 210,
+      "sentencesCount" : {
+         "currentCount" : 41299,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 3258,
+      "validatedHours" : 163
+   },
+   {
+      "id" : 65,
+      "is_contributable" : 1,
+      "locale" : "rm-sursilv",
+      "localizedPercentage" : 46,
+      "recordedHours" : 12,
+      "sentencesCount" : {
+         "currentCount" : 8705,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 90,
+      "validatedHours" : 7
+   },
+   {
+      "id" : 66,
+      "is_contributable" : 1,
+      "locale" : "ro",
+      "localizedPercentage" : 48,
+      "recordedHours" : 44,
+      "sentencesCount" : {
+         "currentCount" : 13698,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 408,
+      "validatedHours" : 18
+   },
+   {
+      "id" : 67,
+      "is_contributable" : 1,
+      "locale" : "ru",
+      "localizedPercentage" : 100,
+      "recordedHours" : 260,
+      "sentencesCount" : {
+         "currentCount" : 46784,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 3059,
+      "validatedHours" : 222
+   },
+   {
+      "id" : 68,
+      "is_contributable" : 1,
+      "locale" : "sah",
+      "localizedPercentage" : 38,
+      "recordedHours" : 8,
+      "sentencesCount" : {
+         "currentCount" : 5885,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 57,
+      "validatedHours" : 7
+   },
+   {
+      "id" : 69,
+      "is_contributable" : 1,
+      "locale" : "sc",
+      "localizedPercentage" : 80,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 5231,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 14,
+      "validatedHours" : 2
+   },
+   {
+      "id" : 70,
+      "is_contributable" : 1,
+      "locale" : "sk",
+      "localizedPercentage" : 100,
+      "recordedHours" : 30,
+      "sentencesCount" : {
+         "currentCount" : 8625,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 216,
+      "validatedHours" : 22
+   },
+   {
+      "id" : 71,
+      "is_contributable" : 1,
+      "locale" : "sq",
+      "localizedPercentage" : 94,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 4603,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 38,
+      "validatedHours" : 2
+   },
+   {
+      "id" : 72,
+      "is_contributable" : 1,
+      "locale" : "sr",
+      "localizedPercentage" : 75,
+      "recordedHours" : 7,
+      "sentencesCount" : {
+         "currentCount" : 5607,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 147,
+      "validatedHours" : 4
+   },
+   {
+      "id" : 73,
+      "is_contributable" : 1,
+      "locale" : "sv-SE",
+      "localizedPercentage" : 100,
+      "recordedHours" : 54,
+      "sentencesCount" : {
+         "currentCount" : 25711,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 813,
+      "validatedHours" : 44
+   },
+   {
+      "id" : 74,
+      "is_contributable" : 1,
+      "locale" : "ta",
+      "localizedPercentage" : 33,
+      "recordedHours" : 398,
+      "sentencesCount" : {
+         "currentCount" : 118004,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 876,
+      "validatedHours" : 230
+   },
+   {
+      "id" : 75,
+      "is_contributable" : 0,
+      "locale" : "te",
+      "localizedPercentage" : 58,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 252,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 76,
+      "is_contributable" : 1,
+      "locale" : "th",
+      "localizedPercentage" : 88,
+      "recordedHours" : 421,
+      "sentencesCount" : {
+         "currentCount" : 63872,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 7903,
+      "validatedHours" : 169
+   },
+   {
+      "id" : 77,
+      "is_contributable" : 1,
+      "locale" : "uk",
+      "localizedPercentage" : 100,
+      "recordedHours" : 108,
+      "sentencesCount" : {
+         "currentCount" : 212571,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1024,
+      "validatedHours" : 95
+   },
+   {
+      "id" : 78,
+      "is_contributable" : 1,
+      "locale" : "ur",
+      "localizedPercentage" : 62,
+      "recordedHours" : 192,
+      "sentencesCount" : {
+         "currentCount" : 16910,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 307,
+      "validatedHours" : 56
+   },
+   {
+      "id" : 79,
+      "is_contributable" : 1,
+      "locale" : "uz",
+      "localizedPercentage" : 61,
+      "recordedHours" : 256,
+      "sentencesCount" : {
+         "currentCount" : 148613,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 2140,
+      "validatedHours" : 97
+   },
+   {
+      "id" : 80,
+      "is_contributable" : 1,
+      "locale" : "vi",
+      "localizedPercentage" : 100,
+      "recordedHours" : 19,
+      "sentencesCount" : {
+         "currentCount" : 5720,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 273,
+      "validatedHours" : 6
+   },
+   {
+      "id" : 1841,
+      "is_contributable" : 1,
+      "locale" : "af",
+      "localizedPercentage" : 92,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 4729,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 10,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 2570,
+      "is_contributable" : 1,
+      "locale" : "ab",
+      "localizedPercentage" : 47,
+      "recordedHours" : 86,
+      "sentencesCount" : {
+         "currentCount" : 1046776,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 400,
+      "validatedHours" : 60
+   },
+   {
+      "id" : 2572,
+      "is_contributable" : 1,
+      "locale" : "am",
+      "localizedPercentage" : 100,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 2091,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 16,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 2573,
+      "is_contributable" : 1,
+      "locale" : "dv",
+      "localizedPercentage" : 36,
+      "recordedHours" : 64,
+      "sentencesCount" : {
+         "currentCount" : 7128,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 344,
+      "validatedHours" : 39
+   },
+   {
+      "id" : 2574,
+      "is_contributable" : 1,
+      "locale" : "mhr",
+      "localizedPercentage" : 85,
+      "recordedHours" : 259,
+      "sentencesCount" : {
+         "currentCount" : 328269,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 424,
+      "validatedHours" : 207
+   },
+   {
+      "id" : 2575,
+      "is_contributable" : 1,
+      "locale" : "mrj",
+      "localizedPercentage" : 71,
+      "recordedHours" : 37,
+      "sentencesCount" : {
+         "currentCount" : 54143,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 51,
+      "validatedHours" : 25
+   },
+   {
+      "id" : 2578,
+      "is_contributable" : 1,
+      "locale" : "vot",
+      "localizedPercentage" : 45,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 5437,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 5,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 9500,
+      "is_contributable" : 0,
+      "locale" : "hr",
+      "localizedPercentage" : 52,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1626,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 9501,
+      "is_contributable" : 1,
+      "locale" : "rw",
+      "localizedPercentage" : 35,
+      "recordedHours" : 2388,
+      "sentencesCount" : {
+         "currentCount" : 1404853,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1120,
+      "validatedHours" : 2002
+   },
+   {
+      "id" : 13089,
+      "is_contributable" : 1,
+      "locale" : "lt",
+      "localizedPercentage" : 48,
+      "recordedHours" : 26,
+      "sentencesCount" : {
+         "currentCount" : 129211,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 287,
+      "validatedHours" : 23
+   },
+   {
+      "id" : 17882,
+      "is_contributable" : 1,
+      "locale" : "gl",
+      "localizedPercentage" : 100,
+      "recordedHours" : 62,
+      "sentencesCount" : {
+         "currentCount" : 125531,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1012,
+      "validatedHours" : 29
+   },
+   {
+      "id" : 17883,
+      "is_contributable" : 1,
+      "locale" : "lv",
+      "localizedPercentage" : 100,
+      "recordedHours" : 143,
+      "sentencesCount" : {
+         "currentCount" : 13744,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 2817,
+      "validatedHours" : 71
+   },
+   {
+      "id" : 18650,
+      "is_contributable" : 0,
+      "locale" : "lij",
+      "localizedPercentage" : 100,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 7,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 18651,
+      "is_contributable" : 0,
+      "locale" : "tg",
+      "localizedPercentage" : 41,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 7,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 19360,
+      "is_contributable" : 1,
+      "locale" : "ba",
+      "localizedPercentage" : 59,
+      "recordedHours" : 277,
+      "sentencesCount" : {
+         "currentCount" : 153957,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 922,
+      "validatedHours" : 258
+   },
+   {
+      "id" : 19361,
+      "is_contributable" : 1,
+      "locale" : "ha",
+      "localizedPercentage" : 52,
+      "recordedHours" : 13,
+      "sentencesCount" : {
+         "currentCount" : 5365,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 39,
+      "validatedHours" : 4
+   },
+   {
+      "id" : 19362,
+      "is_contributable" : 1,
+      "locale" : "ckb",
+      "localizedPercentage" : 75,
+      "recordedHours" : 128,
+      "sentencesCount" : {
+         "currentCount" : 17653,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1295,
+      "validatedHours" : 110
+   },
+   {
+      "id" : 19363,
+      "is_contributable" : 1,
+      "locale" : "ml",
+      "localizedPercentage" : 60,
+      "recordedHours" : 10,
+      "sentencesCount" : {
+         "currentCount" : 5357,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 128,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 19364,
+      "is_contributable" : 0,
+      "locale" : "si",
+      "localizedPercentage" : 32,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 169,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 25111,
+      "is_contributable" : 1,
+      "locale" : "rm-vallader",
+      "localizedPercentage" : 47,
+      "recordedHours" : 5,
+      "sentencesCount" : {
+         "currentCount" : 5913,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 53,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 26262,
+      "is_contributable" : 1,
+      "locale" : "mt",
+      "localizedPercentage" : 46,
+      "recordedHours" : 18,
+      "sentencesCount" : {
+         "currentCount" : 5256,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 212,
+      "validatedHours" : 9
+   },
+   {
+      "id" : 26713,
+      "is_contributable" : 1,
+      "locale" : "sw",
+      "localizedPercentage" : 67,
+      "recordedHours" : 948,
+      "sentencesCount" : {
+         "currentCount" : 101606,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1238,
+      "validatedHours" : 374
+   },
+   {
+      "id" : 30190,
+      "is_contributable" : 1,
+      "locale" : "be",
+      "localizedPercentage" : 83,
+      "recordedHours" : 1639,
+      "sentencesCount" : {
+         "currentCount" : 379488,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 8222,
+      "validatedHours" : 1585
+   },
+   {
+      "id" : 30192,
+      "is_contributable" : 1,
+      "locale" : "pa-IN",
+      "localizedPercentage" : 49,
+      "recordedHours" : 4,
+      "sentencesCount" : {
+         "currentCount" : 14816,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 65,
+      "validatedHours" : 2
+   },
+   {
+      "id" : 35968,
+      "is_contributable" : 1,
+      "locale" : "lg",
+      "localizedPercentage" : 49,
+      "recordedHours" : 583,
+      "sentencesCount" : {
+         "currentCount" : 191407,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 654,
+      "validatedHours" : 439
+   },
+   {
+      "id" : 35969,
+      "is_contributable" : 0,
+      "locale" : "my",
+      "localizedPercentage" : 39,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1502,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 35970,
+      "is_contributable" : 0,
+      "locale" : "scn",
+      "localizedPercentage" : 42,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 121,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 36433,
+      "is_contributable" : 0,
+      "locale" : "kaa",
+      "localizedPercentage" : 74,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 798,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 36434,
+      "is_contributable" : 0,
+      "locale" : "tl",
+      "localizedPercentage" : 55,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 901,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 36435,
+      "is_contributable" : 0,
+      "locale" : "vec",
+      "localizedPercentage" : 46,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 37039,
+      "is_contributable" : 1,
+      "locale" : "hy-AM",
+      "localizedPercentage" : 49,
+      "recordedHours" : 5,
+      "sentencesCount" : {
+         "currentCount" : 216997,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 72,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 37389,
+      "is_contributable" : 1,
+      "locale" : "hi",
+      "localizedPercentage" : 46,
+      "recordedHours" : 20,
+      "sentencesCount" : {
+         "currentCount" : 32064,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 396,
+      "validatedHours" : 14
+   },
+   {
+      "id" : 39845,
+      "is_contributable" : 1,
+      "locale" : "co",
+      "localizedPercentage" : 62,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 39846,
+      "is_contributable" : 1,
+      "locale" : "gn",
+      "localizedPercentage" : 98,
+      "recordedHours" : 25,
+      "sentencesCount" : {
+         "currentCount" : 5892,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 140,
+      "validatedHours" : 4
+   },
+   {
+      "id" : 39848,
+      "is_contributable" : 1,
+      "locale" : "kmr",
+      "localizedPercentage" : 79,
+      "recordedHours" : 108,
+      "sentencesCount" : {
+         "currentCount" : 16470,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 552,
+      "validatedHours" : 64
+   },
+   {
+      "id" : 40059,
+      "is_contributable" : 1,
+      "locale" : "bas",
+      "localizedPercentage" : 51,
+      "recordedHours" : 3,
+      "sentencesCount" : {
+         "currentCount" : 5015,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 33,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 40060,
+      "is_contributable" : 1,
+      "locale" : "yue",
+      "localizedPercentage" : 68,
+      "recordedHours" : 90,
+      "sentencesCount" : {
+         "currentCount" : 9482,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 865,
+      "validatedHours" : 21
+   },
+   {
+      "id" : 42022,
+      "is_contributable" : 1,
+      "locale" : "ht",
+      "localizedPercentage" : 70,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 58,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 42025,
+      "is_contributable" : 1,
+      "locale" : "mr",
+      "localizedPercentage" : 57,
+      "recordedHours" : 28,
+      "sentencesCount" : {
+         "currentCount" : 6690,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 87,
+      "validatedHours" : 19
+   },
+   {
+      "id" : 42026,
+      "is_contributable" : 0,
+      "locale" : "ms",
+      "localizedPercentage" : 65,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 47,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 42027,
+      "is_contributable" : 1,
+      "locale" : "ps",
+      "localizedPercentage" : 91,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 2033,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 7,
+      "validatedHours" : 2
+   },
+   {
+      "id" : 42029,
+      "is_contributable" : 0,
+      "locale" : "so",
+      "localizedPercentage" : 0,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 266,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 42030,
+      "is_contributable" : 1,
+      "locale" : "ug",
+      "localizedPercentage" : 93,
+      "recordedHours" : 140,
+      "sentencesCount" : {
+         "currentCount" : 17280,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 1089,
+      "validatedHours" : 128
+   },
+   {
+      "id" : 45565,
+      "is_contributable" : 1,
+      "locale" : "tw",
+      "localizedPercentage" : 65,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 49157,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 5,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 45566,
+      "is_contributable" : 1,
+      "locale" : "yo",
+      "localizedPercentage" : 85,
+      "recordedHours" : 6,
+      "sentencesCount" : {
+         "currentCount" : 5413,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 106,
+      "validatedHours" : 4
+   },
+   {
+      "id" : 46292,
+      "is_contributable" : 1,
+      "locale" : "sat",
+      "localizedPercentage" : 80,
+      "recordedHours" : 2,
+      "sentencesCount" : {
+         "currentCount" : 5407,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 13,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 46539,
+      "is_contributable" : 1,
+      "locale" : "nan-tw",
+      "localizedPercentage" : 86,
+      "recordedHours" : 21,
+      "sentencesCount" : {
+         "currentCount" : 24418,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 207,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 47534,
+      "is_contributable" : 0,
+      "locale" : "yi",
+      "localizedPercentage" : 0,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 667,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 49835,
+      "is_contributable" : 1,
+      "locale" : "ig",
+      "localizedPercentage" : 68,
+      "recordedHours" : 9,
+      "sentencesCount" : {
+         "currentCount" : 14454,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 113,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 50093,
+      "is_contributable" : 1,
+      "locale" : "ti",
+      "localizedPercentage" : 70,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 4520,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 4,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 52952,
+      "is_contributable" : 0,
+      "locale" : "mni",
+      "localizedPercentage" : 83,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 10,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 52953,
+      "is_contributable" : 1,
+      "locale" : "tig",
+      "localizedPercentage" : 66,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 5382,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 9,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 53218,
+      "is_contributable" : 1,
+      "locale" : "tk",
+      "localizedPercentage" : 74,
+      "recordedHours" : 5,
+      "sentencesCount" : {
+         "currentCount" : 2455,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 79,
+      "validatedHours" : 3
+   },
+   {
+      "id" : 53754,
+      "is_contributable" : 1,
+      "locale" : "quy",
+      "localizedPercentage" : 85,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 751,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 2,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 54943,
+      "is_contributable" : 0,
+      "locale" : "km",
+      "localizedPercentage" : 5,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 191,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 56613,
+      "is_contributable" : 1,
+      "locale" : "skr",
+      "localizedPercentage" : 98,
+      "recordedHours" : 8,
+      "sentencesCount" : {
+         "currentCount" : 5994,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 53,
+      "validatedHours" : 5
+   },
+   {
+      "id" : 56614,
+      "is_contributable" : 1,
+      "locale" : "tok",
+      "localizedPercentage" : 86,
+      "recordedHours" : 14,
+      "sentencesCount" : {
+         "currentCount" : 7160,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 135,
+      "validatedHours" : 11
+   },
+   {
+      "id" : 57167,
+      "is_contributable" : 0,
+      "locale" : "lb",
+      "localizedPercentage" : 0,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 7,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75821,
+      "is_contributable" : 1,
+      "locale" : "dyu",
+      "localizedPercentage" : 87,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 5028,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 6,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 75822,
+      "is_contributable" : 1,
+      "locale" : "nso",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 2244,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75824,
+      "is_contributable" : 1,
+      "locale" : "st",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 2337,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75825,
+      "is_contributable" : 1,
+      "locale" : "ts",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 352,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75826,
+      "is_contributable" : 1,
+      "locale" : "ve",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1727,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75858,
+      "is_contributable" : 1,
+      "locale" : "nr",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 319,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75859,
+      "is_contributable" : 1,
+      "locale" : "ss",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1614,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75860,
+      "is_contributable" : 1,
+      "locale" : "tn",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1324,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75861,
+      "is_contributable" : 1,
+      "locale" : "xh",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1476,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 75862,
+      "is_contributable" : 1,
+      "locale" : "zu",
+      "localizedPercentage" : 85,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1320,
+         "targetSentenceCount" : 750
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 76503,
+      "is_contributable" : 0,
+      "locale" : "kn",
+      "localizedPercentage" : 21,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 55,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 76505,
+      "is_contributable" : 1,
+      "locale" : "lo",
+      "localizedPercentage" : 100,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 5145,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 9,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 76508,
+      "is_contributable" : 1,
+      "locale" : "zgh",
+      "localizedPercentage" : 100,
+      "recordedHours" : 1,
+      "sentencesCount" : {
+         "currentCount" : 2585,
+         "targetSentenceCount" : 2000
+      },
+      "speakersCount" : 5,
+      "validatedHours" : 1
+   },
+   {
+      "id" : 77405,
+      "is_contributable" : 0,
+      "locale" : "zza",
+      "localizedPercentage" : 83,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 3375,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 78724,
+      "is_contributable" : 0,
+      "locale" : "nhi",
+      "localizedPercentage" : 73,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 1,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   },
+   {
+      "id" : 81128,
+      "is_contributable" : 0,
+      "locale" : "ltg",
+      "localizedPercentage" : 100,
+      "recordedHours" : 0,
+      "sentencesCount" : {
+         "currentCount" : 4844,
+         "targetSentenceCount" : 5000
+      },
+      "speakersCount" : 0,
+      "validatedHours" : 0
+   }
+]
