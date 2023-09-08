@@ -10,3 +10,7 @@ A simple map generation script to produce an approximate distribution and datase
 * If there are two letter codes, update `iso2to3.py` with the mappings to three letter codes.
 * Update `mapdata.tsv` by adding the mapping from code to latitude/longitude (you can get this from [Glottolog](https://glottolog.org/)).
 * Run `plot.py`
+
+## Todo
+
+* Point pinpoints where languages are, get them from Glottolog.
